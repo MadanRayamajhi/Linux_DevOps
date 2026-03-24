@@ -7,7 +7,7 @@ sudo useradd developer
 sudo mkdir -p /opt/project_alpha
 
 # Change ownership
-sudo chown developer:developer /apt/project_alpha
+sudo chown developer:developer /opt/project_alpha
 
 # Set Permissions
 sudo chmod 700 /opt/project_alpha

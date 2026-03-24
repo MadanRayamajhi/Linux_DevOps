@@ -13,3 +13,12 @@ Sets up a `developer` user with SSH access and `/opt/project_alpha` project dire
 ## Usage
 ```bash
 sudo bash commands.sh
+```
+
+## Screenshots
+
+### SSH Configuration
+![SSH Configuration](./assets/ssh.png)
+
+### User Permissions
+![User Permissions](./assets/user_permission.png)
