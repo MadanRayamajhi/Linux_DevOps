@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 # Linux DevOps Tasks Repository
 
 A comprehensive collection of Linux system administration and DevOps automation tasks, designed to set up and manage critical system services, security, and monitoring.
 
 ---
 
-## 📋 Tasks Overview
+## ðŸ“‹ Tasks Overview
 
 ### [Task 1: Developer Onboarding](./task-1-onboarding)
 Sets up a `developer` user with SSH access and dedicated project directory.
@@ -88,8 +88,6 @@ Monitors and displays comprehensive system resource usage.
 cd task-5-Resource_Investigator && bash command.sh
 ```
 
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -117,16 +115,16 @@ cd ../task-5-Resource_Investigator && bash command.sh
 
 ---
 
-## 📁 Project Structure
+## ðŸ“ Project Structure
 
 ```
 linux-devops/
-├── task-1-onboarding/              # Developer user setup
-├── task-2-The_Service_Guardian/    # Health check service
-├── task-3-Firewall_and_Web_Securty/# UFW firewall config
-├── task-4-Backup_Automator/        # Automated backups
-├── task-5-Resource_Investigator/   # System monitoring
-└── README.md                        # This file
+â”œâ”€â”€ task-1-onboarding/              # Developer user setup
+â”œâ”€â”€ task-2-The_Service_Guardian/    # Health check service
+â”œâ”€â”€ task-3-Firewall_and_Web_Securty/# UFW firewall config
+â”œâ”€â”€ task-4-Backup_Automator/        # Automated backups
+â”œâ”€â”€ task-5-Resource_Investigator/   # System monitoring
+â””â”€â”€ README.md                        # This file
 ```
 
 Each task folder contains:
@@ -136,7 +134,7 @@ Each task folder contains:
 
 ---
 
-## 📝 Notes
+## ðŸ“ Notes
 
 - **Task 1, 2, 3, 4:** Require `sudo` privileges for system-level operations
 - **Task 5:** Can run with regular user permissions
@@ -145,7 +143,7 @@ Each task folder contains:
 
 ---
 
-## 📚 Documentation
+## ðŸ“š Documentation
 
 For detailed information about each task, see the individual README files:
 - [Task 1 Details](./task-1-onboarding/README.md)
@@ -156,24 +154,24 @@ For detailed information about each task, see the individual README files:
 
 ---
 
-## ⚙️ System Administration Tasks
+## âš™ï¸ System Administration Tasks
 
 This repository covers essential Linux DevOps skills:
-- ✅ User and permission management
-- ✅ Systemd service creation and management
-- ✅ Firewall configuration and security
-- ✅ Backup automation and log management
-- ✅ System monitoring and resource analysis
+- âœ… User and permission management
+- âœ… Systemd service creation and management
+- âœ… Firewall configuration and security
+- âœ… Backup automation and log management
+- âœ… System monitoring and resource analysis
 
 ---
 
-## 📄 License
+## ðŸ“„ License
 
 Open source - feel free to use and modify for your infrastructure needs.
 
 ---
 
-## 🤝 Contributing
+## ðŸ¤ Contributing
 
 Feel free to improve these scripts and add additional DevOps automation tasks!
 =======
@@ -243,3 +241,4 @@ Run:
 bash task-5-Resource_Investigator/command.sh
 
 >>>>>>> 6353a810565033da9710d3b6d1a82909d59cf27e
+
