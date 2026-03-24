@@ -13,3 +13,12 @@ Configures UFW (Uncomplicated Firewall) to secure the system while allowing SSH 
 ## Usage
 ```bash
 sudo bash command.sh
+```
+
+## Screenshots
+
+### UFW Firewall Status
+![UFW Firewall Status](./assets/UFW-Status.png)
+
+### Connectivity Test
+![Connectivity Test](./assets/Test-Connectivity.png)

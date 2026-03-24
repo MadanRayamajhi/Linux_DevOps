@@ -13,3 +13,9 @@ Monitors and displays system resource usage including CPU, memory, disk space, a
 ## Usage
 ```bash
 bash command.sh
+```
+
+## Screenshots
+
+### Resource Investigator
+![Resource Investigator](./assets/Resource-Investigator.png)

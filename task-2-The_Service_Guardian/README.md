@@ -12,3 +12,15 @@ Creates and manages a systemd health check service that monitors system health e
 ## Usage
 ```bash
 sudo bash Commands.sh
+```
+
+## Screenshots
+
+### Python Monitoring Script
+![Python Monitoring Script](./assets/python-script.png)
+
+### Systemd Service File
+![Systemd Service File](./assets/systemd-servicefile.png)
+
+### Service Verification
+![Service Verification](./assets/service-verify.png)

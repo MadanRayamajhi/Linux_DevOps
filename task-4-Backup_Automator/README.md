@@ -13,3 +13,9 @@ Automates daily backups of system logs (`/var/log`) with date-stamped compressed
 ## Usage
 ```bash
 sudo bash command.sh
+```
+
+## Screenshots
+
+### Backup Automator
+![Backup Automator](./assets/Backup-Automator.png)
