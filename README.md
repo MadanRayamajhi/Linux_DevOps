@@ -63,19 +63,3 @@ A complete set of Linux DevOps automations and documentation for 5 tasks. This f
 #### Screenshots
 - ![Resource Investigator](./task-5-Resource_Investigator/assets/Resource-Investigator.png)
 
----
-
-## 🚀 Quick Start
-
-1. `cd task-1-onboarding && sudo bash command.sh`
-2. `cd task-2-The_Service_Guardian && sudo bash Commands.sh`
-3. `cd task-3-Firewall_and_Web_Securty && sudo bash command.sh`
-4. `cd task-4-Backup_Automator && sudo bash command.sh`
-5. `cd task-5-Resource_Investigator && bash command.sh`
-
----
-
-## 📝 Notes
-- This README is the official root documentation and includes screenshot references.
-- No additional changes are needed if this file is kept as-is.
-
